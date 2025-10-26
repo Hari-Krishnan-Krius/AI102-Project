@@ -75,7 +75,7 @@ DEPLOYMENT = "<your_deployment_name>"
 
    ```bash
    git clone https://github.com/Hari-Krishnan-Krius/AI102-Project.git
-   cd "AI102-Project/Task2 - Classify text/Code"
+   cd "AI102-Project/Task2 - Custom text classification/Code"
    ```
 
 2. **Add your `.env` file** containing your Azure credentials and project info.
