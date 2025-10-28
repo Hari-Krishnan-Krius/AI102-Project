@@ -1,0 +1,12 @@
+Ask a question about the audio
+(or type 'quit' to exit)
+Can you summarize this customer's voice message?
+Getting a response ...
+
+Customer: Parker from Fourth Coffee on Madison Ave.
+Purpose: Update order for next month.
+Change Request: Add an additional 5 pounds of avocados.
+
+Ask a question about the audio
+(or type 'quit' to exit)
+quit
