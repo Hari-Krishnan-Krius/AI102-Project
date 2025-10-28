@@ -77,6 +77,13 @@ These values correspond to your **Azure Custom Vision resource** in the Azure po
 
 ## 🚀 Getting Started
 
+**Clone or navigate to your project directory:**
+
+   ```bash
+   git clone https://github.com/Hari-Krishnan-Krius/AI102-Project.git
+   cd "AI102-Project/Task8 - Classify images/Code"
+   ```
+
 ### 🧰 1. Train the Model
 
 Run the training script to upload images and train your classifier:
