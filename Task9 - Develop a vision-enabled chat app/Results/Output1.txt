@@ -1,0 +1,66 @@
+Ask a question about the image
+(or type 'quit' to exit)
+Suggest some recipes that include this fruit
+Getting a response ...
+
+This fruit is an orange. Oranges are a versatile ingredient that can be used in a range of recipes, both sweet and savory. Here are some recipe ideas:
+
+### Sweet Recipes:
+1. **Orange Cake**  
+   - A moist cake infused with orange zest and juice. Serve with cream cheese frosting or a glaze made with orange juice and powdered sugar.
+
+2. **Orange Marmalade**
+   - A classic spread made by simmering chopped oranges (including the peel for bitterness) with sugar. Perfect for toast or scones.
+
+3. **Orange Sorbet**
+   - Blend freshly squeezed orange juice with sugar and freeze to make a refreshing sorbet.
+
+4. **Orange Chocolate Truffles**
+   - Combine melted dark chocolate with orange zest and orange juice for fruity, rich truffles.
+
+5. **Glazed Orange Cookies**
+   - Orange-flavored sugar cookies topped with an orange juice glaze.
+
+6. **Orange Pound Cake**
+   - A buttery pound cake enriched with orange juice and topped with an orange glaze to add citrus sweetness.
+
+---
+
+### Savory Recipes:
+1. **Orange Glazed Chicken**
+   - Make a glaze with orange juice, honey, soy sauce, and garlic. Coat the chicken and bake or pan-fry.
+
+2. **Citrus Salad**
+   - Combine orange slices with spinach, walnuts, goat cheese, and a citrus vinaigrette for a fresh salad.
+
+3. **Orange-Marinated Salmon**
+   - Marinate salmon with a mix of orange juice, olive oil, garlic, and soy sauce, then grill or bake it.
+
+4. **Duck à l'Orange**
+   - A classic French dish featuring duck cooked with a rich orange sauce.
+
+5. **Orange and Ginger Stir-fry**
+   - Use orange juice as part of the sauce for a vegetable and protein stir-fry with ginger, soy sauce, and sesame oil.
+
+---
+
+### Drinks:
+1. **Fresh Orange Juice**
+   - Squeeze the oranges for fresh juice, either plain or mixed with sparkling water.
+
+2. **Orange Smoothie**
+   - Blend oranges with yogurt or coconut milk, banana, and ice for a creamy smoothie.
+
+3. **Orange Sangria**
+
+4. **Citrus Mojito**
+   - Prepare a mojito with orange slices, mint, soda water, and light rum.
+
+---
+
+### Bonus:
+You can also use orange zest to add a subtle citrus flavor to pancakes, waffles, muffins, or even roasted vegetables like carrots.
+
+Ask a question about the image
+(or type 'quit' to exit)
+quit

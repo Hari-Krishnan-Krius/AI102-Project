@@ -1,0 +1,1 @@
+This task created with a low-code/no-code user interface for building a custom data extraction multimodel using the Azure AI Foundry Content Understanding service.
